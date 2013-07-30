@@ -1,13 +1,7 @@
-# liberator-tutorial
+# Closure REST Example using Liberator
 
-A Clojure library designed to ... well, that part is up to you.
+This is currently a very basic example of creating REST APIs with Clojure.
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+    lein run
